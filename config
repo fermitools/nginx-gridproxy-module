@@ -1,4 +1,4 @@
-ngx_addon_name=ngx_grdiproxy_module
+ngx_addon_name=ngx_gridproxy_module
 
 if test -n "$ngx_module_link"; then
     ngx_module_type=STREAM
